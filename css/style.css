@@ -1,0 +1,17 @@
+
+ body{
+	 background-color:lightseagreen;
+	 margin:0;
+	 color: dargray;
+	 font:20px/27px arial;
+	 text-decoration:none;
+ }
+ .box{
+	 background-color:mediumaquamarine;
+	 max-width: 840px;
+	 padding:20px;
+	 border-width:2px;
+	 border-style: solid;
+	 border-color: black;
+	 margin: 50px auto;
+ }
